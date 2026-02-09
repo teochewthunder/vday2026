@@ -1,4 +1,4 @@
-# Valentine's Day Ribbon SVG Animation
+# Valentine's Day Ribbon
 
 ## Elements
 - Path tag with background using `valGradient`.
